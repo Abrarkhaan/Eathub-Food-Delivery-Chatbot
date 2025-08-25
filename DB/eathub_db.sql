@@ -1,0 +1,1 @@
+SELECT * FROM eathub_db.order_tracking;
