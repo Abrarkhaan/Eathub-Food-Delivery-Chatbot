@@ -79,9 +79,15 @@ placing and managing their orders.
 
 ## 💡 Intents
 
-This chatbot is powered by **Dialogflow Intents**: - **Default Welcome
-Intent** - **New Order** - **Order Add** - **Order Remove** - **Order
-Complete** - **Order Track** - **Order Tracked** - **Work Timings**
+This chatbot is powered by **Dialogflow Intents**: 
+- **Default Welcome Intent**
+- **New Order**
+- **Order Add**
+- **Order Remove**
+- **Order Complete**
+- **Order Track**
+- **Order Tracked**
+- **Work Timings**
 
 ------------------------------------------------------------------------
 
